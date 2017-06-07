@@ -3,7 +3,7 @@
 import numpy as np
 from functools import reduce
 import matplotlib.pyplot as plt
-from genetic.core import EvolutionaryAlgorithm
+from genepy.core import EvolutionaryAlgorithm
 
 
 """

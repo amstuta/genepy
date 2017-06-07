@@ -1,8 +1,8 @@
-# Evolutionary Algorithm \- Genetic Programming
+# Genepy \- A simple genetic programming library
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/amstuta/genetic.py/blob/master/LICENSE.md)
 
-This package is a high-level library implementing a
+Genepy is a high-level library implementing a
 genetic programming algorithm using a tree representation for individuals. It
 is compatible with Python 2.7 and all the following versions and uses only the
 standard library (no dependencies).
@@ -19,7 +19,7 @@ have the libraries numpy and matplotlib installed.
 
 The package can be installed simply using Pypi:
 ```sh
-pip install genetic
+pip install genepy
 ```
 
 ### Usage
@@ -34,7 +34,7 @@ To use it, you need to give the algorithm:
 Basic example:
 ```python
 from operator import add, sub, mul
-from genetic.core import EvolutionaryAlgorithm
+from genepy.core import EvolutionaryAlgorithm
 
 # Load your dataset
 train_features, train_targets = ...
