@@ -1,6 +1,6 @@
 # Genepy \- A simple genetic programming library
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/amstuta/genetic.py/blob/master/LICENSE.md)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/amstuta/genepy/blob/master/LICENSE.md)
 
 Genepy is a high-level library implementing a
 genetic programming algorithm using a tree representation for individuals. It
