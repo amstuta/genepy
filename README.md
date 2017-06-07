@@ -19,7 +19,7 @@ have the libraries numpy and matplotlib installed.
 
 The package can be installed simply using Pypi:
 ```sh
-pip install evolution
+pip install genetic
 ```
 
 ### Usage
